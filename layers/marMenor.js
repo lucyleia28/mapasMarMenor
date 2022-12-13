@@ -1,4 +1,4 @@
-var marMenor = {
+export var marMenor = {
     "type": "FeatureCollection",
     "features": [{
         "type": "Feature",
